@@ -28,4 +28,7 @@ An advanced and responsive **scientific calculator** developed using **HTML**, *
 - jQuery (for efficient DOM handling)
 
 ---
+## 💻 Screenshot
+
+![Calculator Screenshot](https://github.com/Puspalata01/scientific-calculator/blob/4393d48796f7e3d10b66457ea730c902e77d3fe2/Screenshot%202025-08-05%20235619.png?raw=true)
 ---
