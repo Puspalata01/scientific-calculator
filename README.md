@@ -29,8 +29,3 @@ An advanced and responsive **scientific calculator** developed using **HTML**, *
 
 ---
 ---
-
-## 🖼️ Preview
-
-![<img width="686" height="736" alt="Screenshot 2025-08-05 235619" src="https://github.com/user-attachments/assets/aec0c5a0-a2f7-4b04-aeb8-153099c63fbe" />
-](preview.png)
